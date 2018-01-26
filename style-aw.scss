@@ -1,13 +1,14 @@
 // Reassign color vars to semantic color scheme
-$brand-primary:             #ae1833;
-
-$brand-success:             #5cb85c;
-$brand-info:                #5bc0de;
-$brand-warning:             #f0ad4e;
-$brand-danger:              #f92f01;
-
-$brand-inverse:             #292b2c;
-
+$theme-colors: (
+  primary: #ae1833,
+  secondary: white,
+  success: #28a745,
+  info: #f92f01,
+  warning: #ffc107,
+  danger: #dc3545,
+  light: #f8f9fa,
+  dark: #292b2c
+);
 
 // Options
 //

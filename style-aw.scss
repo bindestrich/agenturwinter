@@ -4,7 +4,8 @@ $brand-primary:             #ae1833;
 $brand-success:             #5cb85c;
 $brand-info:                #5bc0de;
 $brand-warning:             #f0ad4e;
-$brand-danger:              #d9534f;
+$brand-danger:              #f92f01;
+
 $brand-inverse:             #292b2c;
 
 
@@ -49,4 +50,4 @@ $display4-size: 3.5 * $font-size-base;
 $border-radius: .25rem;
 
 
-@import 'bootstrap-4.0.0-alpha.6';
+@import 'bootstrap-4.0.0-beta.1';

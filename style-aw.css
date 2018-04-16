@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Playfair+Display:700|Roboto:300,300i");
+@import url("https://fonts.googleapis.com/css?family=Maven+Pro:900|Roboto:300,300i");
 /*!
 * Bootstrap 4.0.0-beta (https://getbootstrap.com)
 * Copyright 2011-2017 The Bootstrap Authors
@@ -3583,7 +3583,7 @@ tbody.collapse.show {
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.75rem;
-  font-family: Playfair Display;
+  font-family: Maven Pro;
   font-weight: 500;
   line-height: 1.1;
   color: inherit; }
@@ -3621,7 +3621,7 @@ h6, .h6 {
   line-height: 1.1; }
 
 .display-3 {
-  font-size: 3.5rem;
+  font-size: 4rem;
   font-weight: 300;
   line-height: 1.1; }
 
